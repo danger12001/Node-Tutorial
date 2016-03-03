@@ -153,4 +153,4 @@ A few useful `npm` commands to look into are:
   * `npm install <library name>`
   * `npm install -g <library name>`
   * `npm init package.json`
-  * `install --save`
+  * `npm install <library name> --save`
