@@ -40,3 +40,5 @@ Create a file called `hello.js` in the node-tutorial folder. In the script write
 You can run the program from the command line using: `node hello.js`
 
 Run `mocha` from the command line. At least one test should pass.
+
+Next go on to [Filter some numbers](filter.html).

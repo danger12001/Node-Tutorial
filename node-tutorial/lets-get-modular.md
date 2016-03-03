@@ -44,3 +44,5 @@ The module should be in a file called:
         });
         ```
 * use this folder as input: `./files/week1`
+
+Next up is [Product List](product-list.html).
