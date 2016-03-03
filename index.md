@@ -3,9 +3,9 @@ layout: default
 title: Javascript on the command line
 ---
 
-# Javascript on the command line
+# JavaScript on the command line
 
-So far all the Javascript you wrote ran in a web browser. That doesn't need to be the case, one can run Javascript on the command line and use it to program much more than buttons, fields, and elements in the browser. A world of programming Web Servers, Robots, and Databases to name but a few options awaits.
+So far all the JavaScript you wrote ran in a web browser. That doesn't need to be the case: one can run JavaScript on the command line and use it to program much more than buttons, fields, and elements in the browser. A world of programming Web Servers, Robots, and Databases (to name but a few options) awaits.
 
 You can read more about Node.JS in [Chapter 20 of Eloquent JavaScript](http://eloquentjavascript.net/20_node.html).
 
