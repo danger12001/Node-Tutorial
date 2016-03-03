@@ -7,14 +7,14 @@ title: Node Setup
 
 ## Installing Node JS
 
-On Ubuntu you can install Node JS from the command line using `apt-get`.
+On Ubuntu you can install Node JS from the command line using `apt-get`. You should already have it installed on your laptop if you completed the codeX intro.
 
-You should already have it installed on your laptop if you completed the codeX intro.
+To check that you have it installed, and what version, run `nodejs -v` for the terminal. If you get an error, follow through installation instructions below. Otherwise jump down to [Node JS Javascript from the command line](#node-js-javascript-from-the-command-line).
 
-The installation instructions are as follows:
+### Installation instructions
 
 * `sudo apt-get install node-legacy` (this will instal Node as `node` and the `nodejs` command)
-* `sudo apt-get install npm`
+* `sudo apt-get install npm` (this will install Node Package Manager, which we'l learn more about later)
 
 Open a terminal window:
 
@@ -33,7 +33,7 @@ Let's run a simple JavaScript script from the command line:
 * Now run it using `nodejs hello.js`.
 * What happens?
 
-So what just happened? You liberated your JavaScript knowledge from the command line.
+You liberated your JavaScript knowledge from the browser and moved it to the command line!
 
 Now prove this to yourself and write some JavaScript that uses:
 
@@ -42,6 +42,6 @@ Now prove this to yourself and write some JavaScript that uses:
 * a simple function;
 * whatever else you need to get comfortable.
 
-If you can, create about 5 different JavaScript (.js) files to get more comfortable with JavaScript on the command line.
+Create about 5 different JavaScript (.js) files to get more comfortable with JavaScript on the command line.
 
 You can run the scripts using `nodejs filename.js`.
