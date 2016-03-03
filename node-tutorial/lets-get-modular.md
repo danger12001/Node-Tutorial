@@ -5,8 +5,6 @@ title: Let's get modular
 
 ## Let's get modular
 
-Now let's use your newly found knowledge about modules.
-
 You will now create a new module and also use some of Node JS's built-in modules. The module should be able to return a list of all the rows in all the files in a specified folder. Your module should be able to do that Synchronously and Asynchronously.
 
 Your module should:
@@ -17,9 +15,7 @@ Your module should:
 * append each row to a list;
 * return the list that contains all the lines of all the files.
 
-* if there are 3 files in the folder
-* and each file has 3 rows
-* your modules should return a list containing 9 rows
+For example: if there are 3 files in the folder and each file has 3 rows, your modules should return a list containing 9 rows.
 
 Use the built in node module called `fs`: it stands for File System. The `fs` module handles accessing files from Node JS.
 
