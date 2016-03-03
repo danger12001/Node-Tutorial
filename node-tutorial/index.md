@@ -20,18 +20,14 @@ The `-g` is for global package. That means you will be able to run mocha from th
 
 You now need to:
 
-* run mocha in that folder - type ```mocha``` and press enter - you should a message saying ```0 passing (1ms)```
-* you should get messages about some failing tests
-* all the work below should be done in the ```node-tutorial``` folder.
 * fork the [Node-Tutorial](https://github.com/codex-academy/Node-Tutorial) repository;
 * clone a copy into your local projects folder;
 * open a new terminal window and change into the `node-tutorial` folder;
+* do all the work below in the `node-tutorial` folder.
 
-You can use the command below to see which tests are passing and which not:
+Run mocha in that folder by typing `mocha` and press enter. You should a message saying `0 passing (1ms)` and you should get messages about some failing tests.
 
-`mocha`
-
-As you work your way through the tasks run the `mocha` command after each test to be sure that your implementation is successful. As you work your way through the tutorial more and more of the tests should pass.
+As you work your way through the tasks run the `mocha` command after each test to see which tests are passing and which are not. As you progress, more and more of the tests should pass.
 
 ## Hello terminal
 
