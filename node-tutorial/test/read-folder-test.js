@@ -4,6 +4,7 @@ describe("ReadFolder", function(){
 
     it('should find the lines syncronously', function(){
         var readFolder = require('../read-folder');
+        // console.log(readFolder);
         assert.equal(11, readFolder.linesInFiles('./files/week1').length);
     });
 
@@ -14,5 +15,5 @@ describe("ReadFolder", function(){
             done();
         });
     });
-    
+
 });
